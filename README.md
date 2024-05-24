@@ -5,6 +5,9 @@ This service is set up to monitor Docker container metrics such as CPU usage, RA
 
 Follow the steps below to set up and use the container monitoring system:
 
+![image](https://github.com/Chanakya-Raam/Container-Metric-Monitoring/assets/122670542/22735805-7cd8-4c99-846d-d581cb3971a1)
+
+
 
 ### 1. Install Docker and Docker-compose installed in the system  
 ```bash
